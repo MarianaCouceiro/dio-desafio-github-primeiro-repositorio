@@ -1,0 +1,38 @@
+Anotações do Curso de Introdução à lógica e a programação.
+
+Lógica: "coerência de raciocínio, de ideias".
+Lógica de programação: "contetualizar a lógica na programação de comoutadores, buscando a melhor sequência de ações
+para solucionar problemas.
+Algoritmos: "uma sequência de passos para resolver um problema".
+Pseudocódigos: "forma genérica de escrever o algoritmo usando uma linguagem simples, nativa, que pode ser 
+entendido por qualquer pessoa.
+Fluxograma: "uma ferramenta utilizada para representar graficamente o algoritmo, isto é, uma sequência lógica e coerente
+do fluxo de dados.
+
+IDE Portugol:https://github.com/UNIVALI-LITE/Portugol-Studio/releases/
+
+Links 
+Jogo Minecraft: https://studio.code.org/s/mc/lessons/1/levels/1
+Jogo dos pinguins para terinar pseudocódigo: https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+Embarcar o filhote de pinguim com cachecol azul.
+Embarcar a mãe do pinguim com cacheco azul.
+Atravessar os dois até o outro iceberg.
+Desembarcar a mãe do pinguim com o cachecol azul.
+Retornar até o iceberg inicial com o filhote de pinguim de cachecol azul embarcado.
+Embarcar o filhote de pinguim com cachecol verde.
+Atravessar os dois até o outro iceberg.
+Desembarcar o filhote de pinguim com o cachecol azul.
+Retornar até o iceberg inicial com o filhote de pinguim decachecol verde embarcado.
+Embarcar a mãe do pinguim com cachecol verde.
+Atravessar os dois até o outro iceberg.
+Desembarcar a mãe do pinguim com o cachecol verde.
+Retornar até o iceberg inicial com o filhote de pinguim de cachecol verde embarcado.
+Embarcar o filhote de pinguim com cachecol vermelho.
+Atravessar os dois até o outro iceberg.
+Desembarcar o filhote de pinguim com o cachecol verde.
+Retornar até o iceberg inicial com o filhote de pinguim de cachecol vermelho embarcado.
+Embarcar a mãe do pinguim com cachecol vermelho.
+Atravessar os dois até o outro iceberg.
+Desembarcar a mãe do pinguim com o cachecol vermelho.
+Desembarcar o filhote de pinguim com o cachecol vermelho.
